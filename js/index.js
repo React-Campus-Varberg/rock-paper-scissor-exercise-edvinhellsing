@@ -53,7 +53,7 @@ class App extends React.Component {
             </section>
             <section className = "rules-section">
                <h2>Game Rules</h2>
-               <p>Play the classic game Rock Paper Scissors against the wachine. Just press a button, and see if you can beat the machine.</p>
+               <p>Play the classic game Rock Paper Scissors against the machine. Just press a button, and see if you can beat the machine.</p>
             </section>
             <section>
                <ChooseTool select = { this.handleClick }/>
