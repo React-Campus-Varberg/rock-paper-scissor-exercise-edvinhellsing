@@ -1,3 +1,7 @@
+# Solution
+
+The classic game of Rock Paper Scissors. Based on Christoffer's video, with some tweaks and css.
+
 # Övning
 
 I denna övning ska du göra ett sten, sax och påse spel. Användaren ska kunna välja sten, sax eller påse och datorns val ska slumpas och sedan ska en vinnare avgöras och visas på sidan.
